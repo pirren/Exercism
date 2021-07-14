@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PythagoreanTriplet", "pytha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hamming", "hamming\Hamming.csproj", "{13364DA3-3CC0-4D28-94B5-0CCCE2F3144C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HighScores", "high-scores\HighScores.csproj", "{13803F38-3FBA-4639-8A25-DEB016825CF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{13364DA3-3CC0-4D28-94B5-0CCCE2F3144C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13364DA3-3CC0-4D28-94B5-0CCCE2F3144C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13364DA3-3CC0-4D28-94B5-0CCCE2F3144C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13803F38-3FBA-4639-8A25-DEB016825CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13803F38-3FBA-4639-8A25-DEB016825CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13803F38-3FBA-4639-8A25-DEB016825CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13803F38-3FBA-4639-8A25-DEB016825CF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
